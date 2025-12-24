@@ -64,10 +64,13 @@ Tree in pot octopus in tank
 ![Gartner Hype Cycle](https://beantin.net/content/images/2024/09/gartner-silent-achievers.webp)
 ![Too much Foam](https://vinepair.com/wp-content/uploads/2015/09/too-much-head.jpg)
 # The Hype
-![bitch](https://techweez.com/wp-content/uploads/2025/07/Grok-Anime-Girl-Companion-750x536.jpg)
+![bitch](https://github.com/user-attachments/assets/3e3bf9dd-83cf-4d8d-8176-8fb7ae39d7b1)
 ![go spot go](https://i.ytimg.com/vi/0rliFQ0qyAM/sddefault.jpg)
 # The reality
-![sad robot](https://preview.redd.it/this-is-downright-terrifying-and-sad-gemini-ai-has-a-v0-xskadthjrsif1.png?width=1080&format=png&auto=webp&s=e0416b31129d9a646183cd51345c54cc2e2a8020)
+![sad robot](https://github.com/user-attachments/assets/7ce221e4-37ab-4de0-8c0d-591dd6065757)
+
+
+
 ![bio](https://lh3.googleusercontent.com/J5RC0j1DeUWaNc5h6nGwJwsQSLUuTXINP6we2ymLJ_WUg9bH-hvfvI8WVFeghN-_YR69MryNK5O2rFcVNwz9PZePpBtLdwdshCGzLdM=w2048-rw-v1)
 ![car](https://boingboing.net/wp-content/uploads/2025/03/rober.jpg)
 # Why do all this?
