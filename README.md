@@ -75,7 +75,7 @@ Tree in pot octopus in tank
 <blockquote class="tiktok-embed" data-video-id="7206335455795662123" style="max-width: 605px; min-width: 325px;"><section></section></blockquote>
 ## Duality
 ##### Palantir Bad!
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DFDODxSAGLH/"></blockquote>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DR7jTLgCL0p/"></blockquote>
 ##### Palantir Good!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AsnE98temZo" frameborder="0" allowfullscreen></iframe>
 
@@ -102,10 +102,10 @@ Tree in pot octopus in tank
 **Chinese Financials:** $5.6M training + $0.55-2.19 per million tokens for open-source self-hosted deployment  
 **Chinese Analog:** Standardized tests + class rank percentiles + brutal peer comparison without discussion  
 
-https://www.youtube.com/shorts/WTGzSymTAWM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WTGzSymTAWM" frameborder="0" allowfullscreen>
 
 
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DR7jTLgCL0p/"></blockquote>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DFDODxSAGLH/"></blockquote>
 
 ![tree in pot](https://smallspotgardens.com/wp-content/uploads/2011/05/img_2665.jpg)
 ![octopus in tank](https://img.youtube.com/vi/7xO_8p9rk2Q/maxresdefault.jpg)
