@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: AI Bullshit
-description: Tree in pot octopus in tank
+title: AI BUBBLE JUMP
+description: 
 
 Why short nVidia?
 
@@ -76,4 +76,5 @@ Tree in pot octopus in tank
 ![dead2](https://scontent.fsac1-2.fna.fbcdn.net/v/t39.30808-6/539176070_1237668698400776_6094588824845818605_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7tgCobdZyxYQ7kNvwHD4L4L&_nc_oc=Adk6p72wV3dA5WQ19T9uxiiAFq31JPd6UWlwUCZsTVcK_Cy9FgDDvpPWZi412fCpWltLGBN-ZHunDKvO32WLcZ7m&_nc_zt=23&_nc_ht=scontent.fsac1-2.fna&_nc_gid=WYuIIIkYPeVf0va84RXoVw&oh=00_AfmyuNbwalNUHhym5vYXdKR1jps-zHHhWp6Mw2s6Xm9xGg&oe=6950F6F9)
 ![dead3](https://scontent.fsac1-2.fna.fbcdn.net/v/t39.30808-6/501010464_1125245079631132_5423884697805061928_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sghFdvAopfMQ7kNvwGG3ZiB&_nc_oc=AdloE13M69DcCN46BiblxIoS7t-aPi-FHyeIMGNdMaOmsICGWTD46rduu7Ful4tqeDJR1i9_qHcOasxsh821ccxO&_nc_zt=23&_nc_ht=scontent.fsac1-2.fna&_nc_gid=IQvGkEB1KqBXO_i45CMWvg&oh=00_AfmZT2NYwNjPmeY0owQiOOzJfsLaPjgu7KDFmGa0XrDsFw&oe=69510F22)
 ![dead4](https://celebratingjoe.com/img/celebrationofjoe.png)
-AND A LOT MORE https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots
+![AND A LOT MORE](https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots)
+
