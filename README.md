@@ -70,13 +70,11 @@ Tree in pot octopus in tank
 ![sad robot](https://github.com/user-attachments/assets/7ce221e4-37ab-4de0-8c0d-591dd6065757)
 ![bio](https://lh3.googleusercontent.com/J5RC0j1DeUWaNc5h6nGwJwsQSLUuTXINP6we2ymLJ_WUg9bH-hvfvI8WVFeghN-_YR69MryNK5O2rFcVNwz9PZePpBtLdwdshCGzLdM=w2048-rw-v1)
 ![car](https://github.com/user-attachments/assets/f589a2b3-13f7-48bf-a3a2-820dfc765b28)
-## It can't get worse!
+## Can't unlearn, Promethius/Pandora
+<blockquote class="tiktok-embed" data-video-id="7206335455795662123" style="max-width: 605px; min-width: 325px;"><section></section></blockquote>
 ## Duality
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DR7jTLgCL0p/"></blockquote>
-
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DFDODxSAGLH/"></blockquote>
-
-<script async src="//www.instagram.com/embed.js"></script>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AsnE98temZo" frameborder="0" allowfullscreen></iframe>
 
@@ -94,6 +92,7 @@ Tree in pot octopus in tank
 ![octopus in tank](https://img.youtube.com/vi/7xO_8p9rk2Q/maxresdefault.jpg)
 
 
+
 ![american prep](https://images.theconversation.com/files/44470/original/gdm9tgjx-1395421281.jpg)
 ![chinese dirt bun](https://www.helpforld.com/wp-content/uploads/2023/07/Back-to-School-Checklist-%E2%80%94-Why-You-Should-Consider-a-Private-Tutor.jpg)
 # AI Training Philosophy: USA vs China
@@ -104,4 +103,7 @@ Tree in pot octopus in tank
 **Chinese Philosophy:** Optimize for measurable correctness and verifiable right answers  
 **Chinese AI (GRPO):** One network + group sampling against objective auto-graded correctness metrics  
 **Chinese Analog:** Standardized tests + class rank percentiles + brutal peer comparison without discussion  
+
+<script async src="//www.instagram.com/embed.js"></script>
+<script async src="https://www.tiktok.com/embed.js"></script>
 **Chinese Financials:** $5.6M training + $0.55-2.19 per million tokens for open-source self-hosted deployment 
