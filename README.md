@@ -65,11 +65,15 @@ Tree in pot octopus in tank
 ![Too much Foam](https://vinepair.com/wp-content/uploads/2015/09/too-much-head.jpg)
 # The Hype
 ![bitch](https://github.com/user-attachments/assets/3e3bf9dd-83cf-4d8d-8176-8fb7ae39d7b1)
-![go spot go](https://i.ytimg.com/vi/0rliFQ0qyAM/sddefault.jpg)
+![go spot go](https://i.ytimg.com/vi/0rliFQ0qyAM/maxresdefault.jpg)
 # The reality
 ![sad robot](https://github.com/user-attachments/assets/7ce221e4-37ab-4de0-8c0d-591dd6065757)
 ![bio](https://lh3.googleusercontent.com/J5RC0j1DeUWaNc5h6nGwJwsQSLUuTXINP6we2ymLJ_WUg9bH-hvfvI8WVFeghN-_YR69MryNK5O2rFcVNwz9PZePpBtLdwdshCGzLdM=w2048-rw-v1)
-![car](https://boingboing.net/wp-content/uploads/2025/03/rober.jpg)
+![car](https://github.com/user-attachments/assets/f589a2b3-13f7-48bf-a3a2-820dfc765b28)
+## It can't get worse!
+![](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2014_36/648141/140903-fire.jpg)
+
+
 # Why do all this?
 ![bubble](https://pbs.twimg.com/media/G2wCBhJbMAAlUSE.jpg)
 ![assasin](https://github.com/user-attachments/assets/86c6b963-1cb4-4e77-82cf-f67b21297719)
@@ -81,7 +85,7 @@ Tree in pot octopus in tank
 
 ![tree in pot](https://smallspotgardens.com/wp-content/uploads/2011/05/img_2665.jpg)
 
-
+![octopus in tank](https://img.youtube.com/vi/7xO_8p9rk2Q/maxresdefault.jpg)
 
 
 ![american prep](https://images.theconversation.com/files/44470/original/gdm9tgjx-1395421281.jpg)
