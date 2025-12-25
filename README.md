@@ -2,6 +2,8 @@ theme: jekyll-theme-slate
 title: Ground truth vs hallucination
 description:
 
+# I made this presentation trying to prove a point, but the research changed my mind.
+
 Market behavior:  
   Gartner hype cycle  
   Fundementals  
@@ -54,7 +56,7 @@ Alpha fold
 The Terminator  
 Anne musk  
 Tesla mark rober  
-Big money, big dreams, big compute, big models, big data.  
+Big money, big dreams, big compute, big models, big data, big inference
 What is nvidia?  
 Tree in pot octopus in tank  
 
@@ -108,30 +110,19 @@ The glass is definitely filling with up with beer, but it's also mostly foam.
 ![american prep](https://images.theconversation.com/files/44470/original/gdm9tgjx-1395421281.jpg)
 ![chinese dirt bun](https://www.helpforld.com/wp-content/uploads/2023/07/Back-to-School-Checklist-%E2%80%94-Why-You-Should-Consider-a-Private-Tutor.jpg)
 
-
+# What is AI
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/c5411711-b1cc-4b17-aab4-086ae05c3dbd" />
 ![my shoggoth](https://github.com/user-attachments/assets/9012c3fd-2378-498c-8c68-2f4be80d2fce)
 <iframe width="315" height="560" src="https://www.youtube.com/embed/ZpBF84RdYbs" frameborder="0" allowfullscreen></iframe>
-
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DRho9SaDSO4/"></blockquote>
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DSAL9AAE2BZ/"></blockquote>
 <iframe width="315" height="560" src="https://www.youtube.com/embed/WTGzSymTAWM" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KHEtJUlpqcg" frameborder="0" allowfullscreen></iframe>
-
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DFDODxSAGLH/"></blockquote>
 ![batchtraining](https://developer.nvidia.com/blog/wp-content/uploads/2015/08/training_inference1.png)
-
-
-![tree in pot](https://smallspotgardens.com/wp-content/uploads/2011/05/img_2665.jpg)
-![octopus in tank](https://img.youtube.com/vi/7xO_8p9rk2Q/maxresdefault.jpg)
 
 ![poweruse](https://andthewest.stanford.edu/wp-content/uploads/2025/04/aw-Data-Centers-Share-Chart-250404-01-1066px.png)
 ![wateruse](https://andthewest.stanford.edu/wp-content/uploads/2025/04/aw-Data-Centers-Water-GHG-Intensity-Map-250404-02-1200px.png)
 
 <script async src="//www.instagram.com/embed.js"></script>
 <script async src="https://www.tiktok.com/embed.js"></script>
-
-
-
-
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/c5411711-b1cc-4b17-aab4-086ae05c3dbd" />
