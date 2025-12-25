@@ -61,8 +61,9 @@ What is nvidia?
 Tree in pot octopus in tank  
 
 # hype dynamics
-![Gartner Hype Cycle](https://beantin.net/content/images/2024/09/gartner-silent-achievers.webp)
 ![Too much Foam](https://vinepair.com/wp-content/uploads/2015/09/too-much-head.jpg)
+Even though the glass is definitely filling with beer, the 
+![Gartner Hype Cycle](https://beantin.net/content/images/2024/09/gartner-silent-achievers.webp)
 
 ### Can't unlearn, Promethius/Pandora
 ##### 4chan llama leak
@@ -92,7 +93,7 @@ Tree in pot octopus in tank
 ![dead4](https://celebratingjoe.com/img/celebrationofjoe.png)
 ![AND A LOT MORE](https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots)
 
-## Disruptive innovation: Deepseek Crash
+## EXAMPLE: Disruptive innovation: Deepseek Crash
 ![crash](https://img.youtube.com/vi/-99Bo18yhA8/maxresdefault.jpg)
 # AI Training Philosophy: USA vs China
 **American Philosophy:** Optimize for human values, subjective quality, and making people feel good  
@@ -112,7 +113,6 @@ Tree in pot octopus in tank
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DRho9SaDSO4/"></blockquote>
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DSAL9AAE2BZ/"></blockquote>
-
 <iframe width="315" height="560" src="https://www.youtube.com/embed/WTGzSymTAWM" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KHEtJUlpqcg" frameborder="0" allowfullscreen></iframe>
@@ -128,3 +128,5 @@ Tree in pot octopus in tank
 
 <script async src="//www.instagram.com/embed.js"></script>
 <script async src="https://www.tiktok.com/embed.js"></script>
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/c5411711-b1cc-4b17-aab4-086ae05c3dbd" />
