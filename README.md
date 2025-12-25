@@ -63,6 +63,17 @@ Tree in pot octopus in tank
 # hype dynamics
 ![Gartner Hype Cycle](https://beantin.net/content/images/2024/09/gartner-silent-achievers.webp)
 ![Too much Foam](https://vinepair.com/wp-content/uploads/2015/09/too-much-head.jpg)
+
+### Can't unlearn, Promethius/Pandora
+##### 4chan llama leak
+<blockquote class="tiktok-embed" data-video-id="7206335455795662123" style="max-width: 605px; min-width: 325px;"><section></section></blockquote>
+
+## Duality
+##### Palantir Bad!
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DR7jTLgCL0p/"></blockquote>
+##### Palantir Good!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AsnE98temZo" frameborder="0" allowfullscreen></iframe>
+
 ## The Hype, the dream
 ![terminator](https://cdn.mos.cms.futurecdn.net/gon65SMMrCEbYAzuZ7opPD-1280-80.jpg.webp)
 ![bitch](https://github.com/user-attachments/assets/3e3bf9dd-83cf-4d8d-8176-8fb7ae39d7b1)
@@ -71,14 +82,6 @@ Tree in pot octopus in tank
 ![sad robot](https://github.com/user-attachments/assets/7ce221e4-37ab-4de0-8c0d-591dd6065757)
 ![bio](https://lh3.googleusercontent.com/J5RC0j1DeUWaNc5h6nGwJwsQSLUuTXINP6we2ymLJ_WUg9bH-hvfvI8WVFeghN-_YR69MryNK5O2rFcVNwz9PZePpBtLdwdshCGzLdM=w2048-rw-v1)
 ![car](https://github.com/user-attachments/assets/f589a2b3-13f7-48bf-a3a2-820dfc765b28)
-### Can't unlearn, Promethius/Pandora
-##### 4chan llama leak
-<blockquote class="tiktok-embed" data-video-id="7206335455795662123" style="max-width: 605px; min-width: 325px;"><section></section></blockquote>
-## Duality
-##### Palantir Bad!
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DR7jTLgCL0p/"></blockquote>
-##### Palantir Good!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AsnE98temZo" frameborder="0" allowfullscreen></iframe>
 
 ## Why do all this?
 ![bubble](https://pbs.twimg.com/media/G2wCBhJbMAAlUSE.jpg)
@@ -91,8 +94,6 @@ Tree in pot octopus in tank
 
 ## Disruptive innovation: Deepseek Crash
 ![crash](https://img.youtube.com/vi/-99Bo18yhA8/maxresdefault.jpg)
-![american prep](https://images.theconversation.com/files/44470/original/gdm9tgjx-1395421281.jpg)
-![chinese dirt bun](https://www.helpforld.com/wp-content/uploads/2023/07/Back-to-School-Checklist-%E2%80%94-Why-You-Should-Consider-a-Private-Tutor.jpg)
 # AI Training Philosophy: USA vs China
 **American Philosophy:** Optimize for human values, subjective quality, and making people feel good  
 **American AI (PPO):** Three networks (policy, value, reward model) + human preference labelers judging helpfulness and alignment 
@@ -102,6 +103,10 @@ Tree in pot octopus in tank
 **Chinese AI (GRPO):** One network + group sampling against objective auto-graded correctness metrics  
 **Chinese Financials:** $5.6M training + $0.55-2.19 per million tokens for open-source self-hosted deployment  
 **Chinese Analog:** Standardized tests + class rank percentiles + brutal peer comparison without discussion  
+![american prep](https://images.theconversation.com/files/44470/original/gdm9tgjx-1395421281.jpg)
+![chinese dirt bun](https://www.helpforld.com/wp-content/uploads/2023/07/Back-to-School-Checklist-%E2%80%94-Why-You-Should-Consider-a-Private-Tutor.jpg)
+
+
 
 ![shoggoth](https://substack-post-media.s3.amazonaws.com/public/images/33e26ffb-452a-4945-ad4b-044fe61428b5_1357x758.png)
 
