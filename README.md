@@ -1,8 +1,6 @@
 theme: jekyll-theme-slate
 title: AI BUBBLE JUMP
-description: 
-
-Why short nVidia?
+description:
 
 Market behavior:  
   Gartner hype cycle  
@@ -60,9 +58,9 @@ Big money, big dreams, big compute, big models, big data.
 What is nvidia?  
 Tree in pot octopus in tank  
 
-# hype dynamics
+# Ground work vs Hype Bullshit
 ![Too much Foam](https://vinepair.com/wp-content/uploads/2015/09/too-much-head.jpg)
-Even though the glass is definitely filling with beer, the 
+The glass is definitely filling with up with beer, but it's also mostly foam.
 ![Gartner Hype Cycle](https://beantin.net/content/images/2024/09/gartner-silent-achievers.webp)
 
 ### Can't unlearn, Promethius/Pandora
