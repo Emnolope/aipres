@@ -68,6 +68,7 @@ The glass is definitely filling with up with beer, but it's also mostly foam.
 <blockquote class="tiktok-embed" data-video-id="7206335455795662123" style="max-width: 605px; min-width: 325px;"><section></section></blockquote>
 
 ## Duality
+![polarity](https://cdn.mos.cms.futurecdn.net/6awnXRZof8XBnkf5UTEaMC-1920-80.jpg.webp)
 ##### Palantir Bad!
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DR7jTLgCL0p/"></blockquote>
 ##### Palantir Good!
@@ -83,6 +84,8 @@ The glass is definitely filling with up with beer, but it's also mostly foam.
 ![car](https://github.com/user-attachments/assets/f589a2b3-13f7-48bf-a3a2-820dfc765b28)
 
 ## Why do all this?
+![attention](https://m.media-amazon.com/images/I/61Xd+e4OFyL._AC_UF894,1000_QL80_.jpg)
+![ad bitch](https://floadvertising.com/wp-content/uploads/2022/01/Street-Team-Pic-1-768x617.jpg)
 ![bubble](https://pbs.twimg.com/media/G2wCBhJbMAAlUSE.jpg)
 ![assasin](https://github.com/user-attachments/assets/86c6b963-1cb4-4e77-82cf-f67b21297719)
 ![dead1](https://github.com/user-attachments/assets/1579df0d-5ed4-4a50-a033-651808ef3f34)
@@ -117,6 +120,7 @@ The glass is definitely filling with up with beer, but it's also mostly foam.
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DFDODxSAGLH/"></blockquote>
 ![batchtraining](https://developer.nvidia.com/blog/wp-content/uploads/2015/08/training_inference1.png)
+
 
 ![tree in pot](https://smallspotgardens.com/wp-content/uploads/2011/05/img_2665.jpg)
 ![octopus in tank](https://img.youtube.com/vi/7xO_8p9rk2Q/maxresdefault.jpg)
