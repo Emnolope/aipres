@@ -113,6 +113,7 @@ Tree in pot octopus in tank
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KHEtJUlpqcg" frameborder="0" allowfullscreen></iframe>
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DFDODxSAGLH/"></blockquote>
+![batchtraining](https://developer.nvidia.com/blog/wp-content/uploads/2015/08/training_inference1.png)
 
 ![tree in pot](https://smallspotgardens.com/wp-content/uploads/2011/05/img_2665.jpg)
 ![octopus in tank](https://img.youtube.com/vi/7xO_8p9rk2Q/maxresdefault.jpg)
