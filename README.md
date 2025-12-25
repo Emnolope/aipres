@@ -64,6 +64,7 @@ Tree in pot octopus in tank
 ![Gartner Hype Cycle](https://beantin.net/content/images/2024/09/gartner-silent-achievers.webp)
 ![Too much Foam](https://vinepair.com/wp-content/uploads/2015/09/too-much-head.jpg)
 ## The Hype, the dream
+![terminator](https://cdn.mos.cms.futurecdn.net/gon65SMMrCEbYAzuZ7opPD-1280-80.jpg.webp)
 ![bitch](https://github.com/user-attachments/assets/3e3bf9dd-83cf-4d8d-8176-8fb7ae39d7b1)
 ![go spot go](https://i.ytimg.com/vi/0rliFQ0qyAM/maxresdefault.jpg)
 ## Groundwork: The reality
