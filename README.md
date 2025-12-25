@@ -4,61 +4,61 @@ description:
 
 Why short nVidia?
 
-Market behavior:
-  Gartner hype cycle
-  Fundementals
-  Soda-froth allegory
-  Hype Beast
-    Embodiment
-    AGI ASI
-    State surveillance
-    Fear mongering works
-    Investors
-    Fucking bubble
-AI boom winters:
-  Expert systems
-Architectures:
-  Transformer (hint)
-  Large language model (hint)
-  Diffusion
-  Experimental
-    token processing
-    Mamba
-    Analog
-    Dynamic networks
-Scaling diminishing returns
-  What is scaling?
-  Mechanism and trick
-    Previous words are usable
-  More data and compute
-  Steal and pillage
-  Self-awareness and self-concept
-    Shoggoth
-    Cybernetics
-    Prompt-engineered agents
-    ELIZA effect
-    emergent consciousness is weak
-Options
-  Good and bad
-  You're selling stability and time
-  Provide society value
-  Usury grift depravity
-    GameStop Leverage
-  House always wins, become casino
-    Sell short term call option
-  Inverse ETF
-  Options visualizer
-Limits
-Assassination
-Hype
-Gemini's mental breakdown
-Alpha fold
-The Terminator
-Anne musk
-Tesla mark rober
-Big money, big dreams, big compute, big models, big data.
-What is nvidia?
-Tree in pot octopus in tank
+Market behavior:  
+  Gartner hype cycle  
+  Fundementals  
+  Soda-froth allegory  
+  Hype Beast  
+    Embodiment  
+    AGI ASI  
+    State surveillance  
+    Fear mongering works  
+    Investors  
+    Fucking bubble  
+AI boom winters:  
+  Expert systems  
+Architectures:  
+  Transformer (hint)  
+  Large language model (hint)  
+  Diffusion  
+  Experimental  
+    token processing  
+    Mamba  
+    Analog  
+    Dynamic networks  
+Scaling diminishing returns  
+  What is scaling?  
+  Mechanism and trick  
+    Previous words are usable  
+  More data and compute  
+  Steal and pillage  
+  Self-awareness and self-concept  
+    Shoggoth  
+    Cybernetics  
+    Prompt-engineered agents  
+    ELIZA effect  
+    emergent consciousness is weak  
+Options  
+  Good and bad  
+  You're selling stability and time  
+  Provide society value  
+  Usury grift depravity  
+    GameStop Leverage  
+  House always wins, become casino  
+    Sell short term call option  
+  Inverse ETF  
+  Options visualizer  
+Limits  
+Assassination  
+Hype  
+Gemini's mental breakdown  
+Alpha fold  
+The Terminator  
+Anne musk  
+Tesla mark rober  
+Big money, big dreams, big compute, big models, big data.  
+What is nvidia?  
+Tree in pot octopus in tank  
 
 # hype dynamics
 ![Gartner Hype Cycle](https://beantin.net/content/images/2024/09/gartner-silent-achievers.webp)
