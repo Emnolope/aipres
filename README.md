@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: AI BUBBLE JUMP
+title: Ground truth vs hallucination
 description:
 
 Market behavior:  
@@ -108,6 +108,7 @@ The glass is definitely filling with up with beer, but it's also mostly foam.
 
 
 ![shoggoth](https://substack-post-media.s3.amazonaws.com/public/images/33e26ffb-452a-4945-ad4b-044fe61428b5_1357x758.png)
+<iframe width="315" height="560" src="https://www.youtube.com/embed/ZpBF84RdYbs" frameborder="0" allowfullscreen></iframe>
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DRho9SaDSO4/"></blockquote>
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DSAL9AAE2BZ/"></blockquote>
