@@ -97,7 +97,7 @@ Even though the glass is definitely filling with beer, the
 ![crash](https://img.youtube.com/vi/-99Bo18yhA8/maxresdefault.jpg)
 # AI Training Philosophy: USA vs China
 **American Philosophy:** Optimize for human values, subjective quality, and making people feel good  
-**American AI (PPO):** Three networks (policy, value, reward model) + human preference labelers judging helpfulness and alignment 
+**American AI (PPO):** Three networks (policy, value, reward model) + human preference labelers judging helpfulness and alignment  
 **American Analog:** Private tutor + guidance counselor + parent-teacher conferences discussing feelings and participation  
 **American Financials:** $500M training + $15-60 per million tokens inference for proprietary closed API  
 **Chinese Philosophy:** Optimize for measurable correctness and verifiable right answers  
