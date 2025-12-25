@@ -116,5 +116,8 @@ Tree in pot octopus in tank
 ![tree in pot](https://smallspotgardens.com/wp-content/uploads/2011/05/img_2665.jpg)
 ![octopus in tank](https://img.youtube.com/vi/7xO_8p9rk2Q/maxresdefault.jpg)
 
+![poweruse](https://andthewest.stanford.edu/wp-content/uploads/2025/04/aw-Data-Centers-Share-Chart-250404-01-1066px.png)
+![wateruse](https://andthewest.stanford.edu/wp-content/uploads/2025/04/aw-Data-Centers-Water-GHG-Intensity-Map-250404-02-1200px.png)
+
 <script async src="//www.instagram.com/embed.js"></script>
 <script async src="https://www.tiktok.com/embed.js"></script>
