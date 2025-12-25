@@ -106,8 +106,7 @@ The glass is definitely filling with up with beer, but it's also mostly foam.
 ![chinese dirt bun](https://www.helpforld.com/wp-content/uploads/2023/07/Back-to-School-Checklist-%E2%80%94-Why-You-Should-Consider-a-Private-Tutor.jpg)
 
 
-
-![shoggoth](https://substack-post-media.s3.amazonaws.com/public/images/33e26ffb-452a-4945-ad4b-044fe61428b5_1357x758.png)
+![my shoggoth](https://github.com/user-attachments/assets/9012c3fd-2378-498c-8c68-2f4be80d2fce)
 <iframe width="315" height="560" src="https://www.youtube.com/embed/ZpBF84RdYbs" frameborder="0" allowfullscreen></iframe>
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DRho9SaDSO4/"></blockquote>
@@ -127,5 +126,8 @@ The glass is definitely filling with up with beer, but it's also mostly foam.
 
 <script async src="//www.instagram.com/embed.js"></script>
 <script async src="https://www.tiktok.com/embed.js"></script>
+
+
+
 
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/c5411711-b1cc-4b17-aab4-086ae05c3dbd" />
