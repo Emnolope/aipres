@@ -102,7 +102,7 @@ Tree in pot octopus in tank
 **Chinese Financials:** $5.6M training + $0.55-2.19 per million tokens for open-source self-hosted deployment  
 **Chinese Analog:** Standardized tests + class rank percentiles + brutal peer comparison without discussion  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WTGzSymTAWM" frameborder="0" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WTGzSymTAWM" frameborder="0" allowfullscreen></iframe>
 
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DFDODxSAGLH/"></blockquote>
